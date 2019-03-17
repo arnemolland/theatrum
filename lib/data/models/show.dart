@@ -6,7 +6,7 @@ class Show {
   String edi;
   String showStart;
   String showStop;
-  String categoryId;
+  int categoryId;
   String categoryDesc;
   String trailerUrl;
   String theater;
